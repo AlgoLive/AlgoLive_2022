@@ -2,9 +2,10 @@
 
 ### ❤️‍🔥 중앙대 zeropage 알고리즘 스터디 ❤️‍🔥
 
-<a href="https://wiki.zeropage.org/wiki.php/%EC%95%8C%EA%B3%A0%EC%82%BD%EC%8B%9C%EB%8B%A4" style="text-align:center">
+<a href="https://wiki.zeropage.org/wiki.php/%EC%95%8C%EA%B3%A0%EC%82%BD%EC%8B%9C%EB%8B%A4" style="text-align:center;">
     <img width="480" alt="algolive ot" src="https://user-images.githubusercontent.com/12531340/175253286-bd82c4af-0168-4f51-b256-e6a66a1d5201.png" >
 </a>
+
 ---
 
 > 문제집: https://github.com/tony9402/baekjoon
@@ -68,9 +69,9 @@
 
 ## ❤️‍🔥 진행사항 ❤️‍🔥
 
-| 주차 | 날짜 | 주차별 학습내용 | 주최자 |  문제 | 관련 링크 |
-|-|-|-|-|-|-|
-| 1회차 |6/28| OT, 자료구조 I: 스택/큐 | 채승운 |[링크](https://github.com/tony9402/baekjoon/tree/main/data_structure)| 문제1 문제2 문제 3 문제 4 문제 5 | 
+| 주차 | 날짜 | 주차별 학습내용 | 주최자 | 메인 문제 | 풀이 | 관련 링크 |
+|-|-|-|-|-|-|-|
+| 1회차 |6/28| OT, 자료구조 I: 스택/큐 | 채승운 |[링크](https://github.com/tony9402/baekjoon/tree/main/data_structure)| [1st study](./1st%20study/) | 문제1 문제2 문제 3 문제 4 문제 5 | 
 | 2회차 |7/1| 자료구조 II: 우선순위 큐 | 이의제 | | ||
 | 3회차 |7/5| 트리 I | | | |
 | 4회차 |7/8| 트리 II : 스패닝 | | | |
