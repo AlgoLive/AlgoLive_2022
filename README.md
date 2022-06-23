@@ -5,8 +5,11 @@
 |❤️‍🔥|❤️‍🔥|❤️‍🔥|❤️‍🔥|❤️‍🔥|
 |-|-|-|-|-|
 |<a href="https://solved.ac/euije">
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=euije"></a>|<a href="https://solved.ac/winluck">
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=euije"></a>
+|<a href="https://solved.ac/winluck">
 <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=winluck"></a>||||
+|<a href="https://solved.ac/realisshomyang">
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=realisshomyang"></a>||||
 
 
 
