@@ -1,6 +1,8 @@
 # Algo_Live : 알고삽시다
 
-#### ❤️‍🔥 중앙대 zeropage 알고리즘 스터디 ❤️‍🔥
+### ❤️‍🔥 중앙대 zeropage 알고리즘 스터디 ❤️‍🔥
+
+---
 
 > 문제집: https://github.com/tony9402/baekjoon
 
@@ -31,7 +33,9 @@
       - ex) 제한 시간으로 통과하기 못한 케이스의 입력 데이터가 '1, 2, 3'인데 이를 해결하기 위한 방법이 무엇이 있을까요?
     - __Github Issue 기능 사용__
     
+---
 
+## ❤️‍🔥 ⭐️ 🔫 ✨ 💘 🎉
 
 <a href="https://solved.ac/winluck">
 <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=winluck"></a>
@@ -45,8 +49,8 @@
 <a href="https://solved.ac/realisshomyang">
 <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=realisshomyang"></a>
 
-<a href="https://solved.ac/">
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj="></a>
+<a href="https://solved.ac/k424">
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=k424"></a>
 
 <a href="https://solved.ac/">
 <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj="></a>
@@ -54,7 +58,10 @@
 <a href="https://solved.ac/euije">
 <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=euije"></a>
 
-#### ❤️‍🔥 진행사항 ❤️‍🔥
+
+---
+
+## ❤️‍🔥 진행사항 ❤️‍🔥
 
 | 주차 | 날짜 | 주차별 학습내용 | 주최자 | 관련 링크 | 문제 |
 |-|-|-|-|-|-|
