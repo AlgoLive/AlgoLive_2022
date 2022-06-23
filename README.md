@@ -2,6 +2,8 @@
 
 ### ❤️‍🔥 중앙대 zeropage 알고리즘 스터디 ❤️‍🔥
 
+<img width="960" alt="algolive ot" src="https://user-images.githubusercontent.com/12531340/175253286-bd82c4af-0168-4f51-b256-e6a66a1d5201.png" style="text-align:center">
+
 ---
 
 > 문제집: https://github.com/tony9402/baekjoon
@@ -30,7 +32,7 @@
   6. 질문 및 답변
   
     - (전 ~~까지 했는데 혹시 여기서 뭐가 잘못되었나요? 전 ~~라고 이해했는데 혹시 이게 틀렸나요? 자꾸 시간초과 뜨는데 어떡하죠? 등)
-    
+
       - ex) 제한 시간으로 통과하기 못한 케이스의 입력 데이터가 '1, 2, 3'인데 이를 해결하기 위한 방법이 무엇이 있을까요?
 
     - [__Github Issue 기능 사용__](https://github.com/AlgoLive/AlgoLive_Session/issues/2)
@@ -65,9 +67,9 @@
 
 ## ❤️‍🔥 진행사항 ❤️‍🔥
 
-| 주차 | 날짜 | 주차별 학습내용 | 주최자 | 관련 링크 | 문제 |
+| 주차 | 날짜 | 주차별 학습내용 | 주최자 |  문제 | 관련 링크 |
 |-|-|-|-|-|-|
-| 1회차 |6/28| OT, 자료구조 I: 스택/큐 | 채승운 || [링크](https://github.com/tony9402/baekjoon/tree/main/data_structure) | |
+| 1회차 |6/28| OT, 자료구조 I: 스택/큐 | 채승운 |[링크](https://github.com/tony9402/baekjoon/tree/main/data_structure)| 문제1 문제2 문제 3 문제 4 문제 5 | 
 | 2회차 |7/1| 자료구조 II: 우선순위 큐 | 이의제 | | ||
 | 3회차 |7/5| 트리 I | | | |
 | 4회차 |7/8| 트리 II : 스패닝 | | | |
