@@ -20,26 +20,39 @@
     - 그래프(DFS, BFS)
   
 - `진행 방식`
-  1. 오늘 문제와 관련된 개념 설명
-  2. 사용한 언어 문법 설명
-  3. 문제를 같이 읽어보며 이해
-  4. 자신의 풀이 과정 및 코드 설명
-  5. 고수의 정답 풀이와 비교
+  1. 오늘 문제와 관련된 __개념 설명__
+  2. 사용한 언어 __문법 설명__
+  3. __문제__ 를 같이 읽어보며 __이해__
+  4. 자신의 __풀이 과정__ 및 코드 설명
+  5. 고수의 정답 풀이와 __비교__
   6. 질문 및 답변
   
-  - (전 ~~까지 했는데 혹시 여기서 뭐가 잘못되었나요? 전 ~~라고 이해했는데 혹시 이게 틀렸나요? 자꾸 시간초과 뜨는데 어떡하죠? 등)
-
-|❤️‍🔥|❤️‍🔥|❤️‍🔥|❤️‍🔥|❤️‍🔥|
-|-|-|-|-|-|
-|<a href="https://solved.ac/winluck">
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=winluck"></a>|<a href="https://solved.ac/euije">
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=euije"></a>|
-|<a href="https://solved.ac/euije">
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=euije"></a>|<a href="https://solved.ac/euije">
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=euije"></a>|<a href="https://solved.ac/euije">
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=euije"></a>|
+    - (전 ~~까지 했는데 혹시 여기서 뭐가 잘못되었나요? 전 ~~라고 이해했는데 혹시 이게 틀렸나요? 자꾸 시간초과 뜨는데 어떡하죠? 등)
+      - ex) 제한 시간으로 통과하기 못한 케이스의 입력 데이터가 '1, 2, 3'인데 이를 해결하기 위한 방법이 무엇이 있을까요?
+    - __Github Issue 기능 사용__
+    
 
 
+<a href="https://solved.ac/winluck">
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=winluck"></a>
+
+<a href="https://solved.ac/synoti21">
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=synoti21"></a>
+
+<a href="https://solved.ac/dwchoi0610">
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dwchoi0610"></a>
+
+<a href="https://solved.ac/realisshomyang">
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=realisshomyang"></a>
+
+<a href="https://solved.ac/">
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj="></a>
+
+<a href="https://solved.ac/">
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj="></a>
+
+<a href="https://solved.ac/euije">
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=euije"></a>
 
 #### ❤️‍🔥 진행사항 ❤️‍🔥
 
