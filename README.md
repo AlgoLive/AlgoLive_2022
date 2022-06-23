@@ -2,7 +2,7 @@
 
 ### ❤️‍🔥 중앙대 zeropage 알고리즘 스터디 ❤️‍🔥
 
-<img width="960" alt="algolive ot" src="https://user-images.githubusercontent.com/12531340/175253286-bd82c4af-0168-4f51-b256-e6a66a1d5201.png" style="text-align:center">
+<img width="480" alt="algolive ot" src="https://user-images.githubusercontent.com/12531340/175253286-bd82c4af-0168-4f51-b256-e6a66a1d5201.png" style="text-align:center">
 
 ---
 
