@@ -4,7 +4,7 @@
 
 <a href="https://solved.ac/winluck">
 <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=winluck"></a>
-<a href="https://solved.ac/exitfill1234">
+<a href="https://solved.ac/eujie">
 <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=exitfill1234"></a>
 
 = 진행사항 =
