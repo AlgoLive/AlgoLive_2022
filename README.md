@@ -1,6 +1,6 @@
-# AlgoLive_Session
+# 알고삽시다
 
-#### Main Session Repository
+#### 중앙대학교 zeropage 여름방학 알고리즘 스터디
 
 
 = 진행사항 =
