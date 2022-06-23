@@ -1,7 +1,6 @@
-# AlgoLive_Session
+# 알고삽시다
 
-#### Main Session Repository
-
+#### 중앙대 zeropage 알고리즘 스터디
 
 = 진행사항 =
 | 주차 | 날짜 | 주차별 학습내용 | 주최자 | 관련 링크 | 기록 |
