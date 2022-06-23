@@ -1,13 +1,17 @@
-# 알고삽시다
+# Algo_Live : 알고삽시다
 
-#### 중앙대 zeropage 알고리즘 스터디
+#### ❤️‍🔥 중앙대 zeropage 알고리즘 스터디 ❤️‍🔥
 
-<a href="https://solved.ac/winluck">
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=winluck"></a>
-<a href="https://solved.ac/exitfill1234">
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=exitfill1234"></a>
+|❤️‍🔥|❤️‍🔥|❤️‍🔥|❤️‍🔥|❤️‍🔥|
+|-|-|-|-|-|
+|<a href="https://solved.ac/euije">
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=euije"></a>|<a href="https://solved.ac/winluck">
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=winluck"></a>||||
 
-= 진행사항 =
+
+
+#### ❤️‍🔥 진행사항 ❤️‍🔥
+
 | 주차 | 날짜 | 주차별 학습내용 | 주최자 | 관련 링크 | 문제 |
 |-|-|-|-|-|-|
 | 1회차 |6/28| OT, 자료구조 I: 스택/큐 | 채승운 || https://github.com/tony9402/baekjoon/tree/main/data_structure | |
