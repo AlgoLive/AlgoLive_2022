@@ -2,6 +2,11 @@
 
 #### 중앙대 zeropage 알고리즘 스터디
 
+<a href="https://solved.ac/winluck">
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=winluck"></a>
+<a href="https://solved.ac/exitfill1234">
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=exitfill1234"></a>
+
 = 진행사항 =
 | 주차 | 날짜 | 주차별 학습내용 | 주최자 | 관련 링크 | 문제 |
 |-|-|-|-|-|-|
