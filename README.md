@@ -58,8 +58,8 @@
 <a href="https://solved.ac/k424">
 <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=k424"></a>
 
-<a href="https://solved.ac/">
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj="></a>
+<a href="https://solved.ac/rokaf72781110">
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=rokaf72781110"></a>
 
 <a href="https://solved.ac/euije">
 <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=euije"></a>
