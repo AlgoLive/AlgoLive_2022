@@ -8,7 +8,7 @@
 
 ---
 
-> 문제집: https://github.com/tony9402/baekjoon
+> </br>문제집: https://github.com/tony9402/baekjoon</br></br>
 
 - `백준 실버 ~ 골드 초반` 수준의 문제를 자료구조 때 배웠던 내용을 적용하여 풀어보며 코딩테스트의 기초를 쌓기 위한 스터디.
 
