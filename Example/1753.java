@@ -23,7 +23,7 @@ public class Main {
    static int V, E, K;
    static int[] dis;
    static List<Node>[] list; // 인접 리스트의 배열
-   static final int INF = 100_000_000; // 매우 큰 수 표현 (두 정점이 만날 수 없는 경우)
+   static final int INF = 100000000; // 매우 큰 수 (두 정점이 만날 수 없는 경우)
 
    
    public static void main(String[] args) throws Exception {
