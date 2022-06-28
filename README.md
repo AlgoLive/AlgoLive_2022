@@ -52,8 +52,8 @@
 <a href="https://solved.ac/dwchoi0610">
 <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dwchoi0610"></a>
 
-<a href="https://solved.ac/realisshomyang">
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=realisshomyang"></a>
+<a href="https://solved.ac/mgmg612">
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=mgmg612"></a>
 
 <a href="https://solved.ac/k424">
 <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=k424"></a>
