@@ -70,8 +70,8 @@
 
 | 주차 | 날짜 | 주차별 학습내용 | 주최자 | 메인 문제 | 풀이 | 관련 링크 |
 |-|-|-|-|-|-|-|
-| 1회차 |6/28| OT, 자료구조 I: 스택/큐 | 채승운 |[링크](https://github.com/tony9402/baekjoon/tree/main/data_structure)| [1st study](./1st%20study/) | 문제1 문제2 문제 3 문제 4 문제 5 | 
-| 2회차 |7/1| 자료구조 II: 우선순위 큐 | 이의제 | | ||
+| 1회차 |6/28| OT, 자료구조 I: 스택/큐 | 채승운 |[#9012](https://www.acmicpc.net/problem/9012) [#1158](https://www.acmicpc.net/problem/1158)| [1st study](./1st%20study/) | 문제1 문제2 문제 3 문제 4 문제 5 | 
+| 2회차 |7/1| 자료구조 II: 우선순위 큐 | 이의제 |[#11279](https://www.acmicpc.net/problem/11279) [#11286](https://www.acmicpc.net/problem/11286)|[주최자 풀이입니돵](./2nd%20study/Codes/)|관련 문제 풀어보고 올려드릴게요 ㅎ|
 | 3회차 |7/5| 트리 I | | | |
 | 4회차 |7/8| 트리 II : 스패닝 | | | |
 | 5회차 |7/12| 그래프 I: DFS/BFS | | | | |
