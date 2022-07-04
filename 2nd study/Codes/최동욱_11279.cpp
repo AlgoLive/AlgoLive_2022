@@ -1,12 +1,15 @@
 #include <iostream>
-#include <vector>
-#include <algorithm>
+#include <queue>
 
 using namespace std;
 
 int main() {
-	vector<int> v = {};
+	ios::sync_with_stdio(0);
+	cin.tie(0); cout.tie(0);
+
+	priority_queue<int> pqueue;
 	int count; int num;
+
 	cin >> count;
 	cin.ignore();
 
@@ -15,18 +18,16 @@ int main() {
 		cin.clear();
 
 		if (num == 0) {
-			if (v.empty()) {
-				cout << 0 << endl;
+			if (pqueue.empty()) {
+				cout << 0 << "\n";
 			}
 			else {
-				pop_heap(v.begin(), v.end());
-				cout << v.back() << endl;
-				v.pop_back();
+				cout << pqueue.top() << "\n";
+				pqueue.pop();
 			}
 		}
 		else {
-			v.push_back(num);
-			push_heap(v.begin(), v.end());
+			pqueue.push(num);
 		}
 	}
 }
