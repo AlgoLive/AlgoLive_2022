@@ -71,8 +71,8 @@
 
 | 주차   | 날짜 | 주차별 학습내용          | 주최자 | 메인 문제                                                                                       | 풀이                                      | 관련 링크                          |
 | ------ | ---- | ------------------------ | ------ | ----------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------------------------------- |
-| 1회차  | 6/28 | OT, 자료구조 I: 스택/큐  | 채승운 | [#9012](https://www.acmicpc.net/problem/9012) [#1158](https://www.acmicpc.net/problem/1158)     | [1st study](./1st%20study/)               | 문제1 문제2 문제 3 문제 4 문제 5   |
-| 2회차  | 7/1  | 자료구조 II: 우선순위 큐 | 이의제 | [#11279](https://www.acmicpc.net/problem/11279) [#11286](https://www.acmicpc.net/problem/11286) | [주최자 풀이입니돵](./2nd%20study/Codes/) | 관련 문제 풀어보고 올려드릴게요 ㅎ |
+| 1회차  | 6/28 | OT, 자료구조 I: 스택/큐  | 채승운 | [#9012](https://www.acmicpc.net/problem/9012) [#1158](https://www.acmicpc.net/problem/1158)     | [1st study](./1st%20study/)               | 문제1 문제2 |
+| 2회차  | 7/1  | 자료구조 II: 우선순위 큐 | 이의제 | [#11279](https://www.acmicpc.net/problem/11279) [#11286](https://www.acmicpc.net/problem/11286) | [주최자 풀이입니돵](./2nd%20study/Codes/) | 관련 문제 풀어
 | 3회차  | 7/5  | 트리 I : 기초~순회       | 조명근 | [#1991](https://www.acmicpc.net/problem/1991) [#9934](https://www.acmicpc.net/problem/9934)     | [주최자 풀이](./3rd%20study/Codes/)       |
 | 4회차  | 7/8  | 트리 II : MST            | 신요한 |                                                                                                 |                                           |
 | 5회차  | 7/12 | 그래프 I: 기초~DFS/BFS   | 채승운 |                                                                                                 |                                           |                                    |
