@@ -71,13 +71,13 @@
 
 | 주차   | 날짜 | 주차별 학습내용          | 주최자 | 메인 문제                                                                                       | 풀이                                      | 관련 링크                          |
 | ------ | ---- | ------------------------ | ------ | ----------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------------------------------- |
-| 1회차  | 6/28 | OT, 자료구조 I: 스택/큐  | 채승운 | [#9012](https://www.acmicpc.net/problem/9012) [#1158](https://www.acmicpc.net/problem/1158)     | [1st study](./1st%20study/)               | 문제1 문제2 |
-| 2회차  | 7/1  | 자료구조 II: 우선순위 큐 | 이의제 | [#11279](https://www.acmicpc.net/problem/11279) [#11286](https://www.acmicpc.net/problem/11286) | [주최자 풀이](./2nd%20study/Codes/) | 관련 문제 풀어
+| 1회차  | 6/28 | OT, 자료구조 I: 스택/큐  | 채승운 | [#9012](https://www.acmicpc.net/problem/9012) [#1158](https://www.acmicpc.net/problem/1158)     | [1st study](./1st%20study/)               |  |
+| 2회차  | 7/1  | 자료구조 II: 우선순위 큐 | 이의제 | [#11279](https://www.acmicpc.net/problem/11279) [#11286](https://www.acmicpc.net/problem/11286) | [주최자 풀이](./2nd%20study/Codes/) |
 | 3회차  | 7/5  | 트리 I : 기초~순회       | 조명근 | [#1991](https://www.acmicpc.net/problem/1991) [#9934](https://www.acmicpc.net/problem/9934)     | [주최자 풀이](./3rd%20study/Codes/)       |
 | 4회차  | 7/8  | 그래프 I: 기초~DFS/BFS   | 채승운 | [#1260](https://www.acmicpc.net/problem/1260) [#2606](https://www.acmicpc.net/problem/2606)  | [주최자 풀이](./4th%20study/Codes/)                                            |
 | 5회차 | <p style="color:red">휴강</p> | ||||
 | 6회차 | <p style="color:red">휴강</p> | ||||
-| 7회차  | 7/19 | 그래프 II: 다익스트라   | 이의제 | [#1260](https://www.acmicpc.net/problem/1260) [#2606](https://www.acmicpc.net/problem/2606  | [주최자 풀이](./7th%20study/Codes/) | |
+| 7회차  | 7/19 | 그래프 II: 다익스트라   | 이의제 | [#1260](https://www.acmicpc.net/problem/1260) [#2606](https://www.acmicpc.net/problem/2606)  | [주최자 풀이](./7th%20study/Codes/) | |
 | 8회차  | 7/22 | 그래프 III: 플로이드    | 송정현 |                                                                                                 |                                           |                                    |
 | 9회차  | 7/26 | DP I                     | 최동욱 |                                                                                                 |                                           |                                    |
 | 10회차  | 7/29 | DP II                    | 안지완 |                                                                                                 |                                           |                                    |
