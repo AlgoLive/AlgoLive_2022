@@ -77,7 +77,7 @@
 | 4회차  | 7/8  | 그래프 I: 기초~DFS/BFS   | 채승운 | [#1260](https://www.acmicpc.net/problem/1260) [#2606](https://www.acmicpc.net/problem/2606)  | [주최자 풀이](./4th%20study/Codes/)                                            |
 | 5회차 | <p style="color:red">휴강</p> | ||||
 | 6회차 | <p style="color:red">휴강</p> | ||||
-| 7회차  | 7/19 | 그래프 II: 다익스트라   | 이의제 | [#1260](https://www.acmicpc.net/problem/1260) [#2606](https://www.acmicpc.net/problem/2606)  | [주최자 풀이](./7th%20study/Codes/) | |
+| 7회차  | 7/19 | 그래프 II: 다익스트라   | 이의제 | [#18352](https://www.acmicpc.net/problem/18352) [#1753](https://www.acmicpc.net/problem/1753)  | [주최자 풀이](./7th%20study/Codes/) | |
 | 8회차  | 7/22 | 그래프 III: 플로이드    | 송정현 |                                                                                                 |                                           |                                    |
 | 9회차  | 7/26 | DP I                     | 최동욱 |                                                                                                 |                                           |                                    |
 | 10회차  | 7/29 | DP II                    | 안지완 |                                                                                                 |                                           |                                    |
