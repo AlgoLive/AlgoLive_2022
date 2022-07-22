@@ -14,9 +14,9 @@ int a[4][4] = {
 
 void floyd(int n) {
     // 플로이드 워셜 알고리즘
-    for(int k=1; k<=n; k++){// k = 거쳐가는 노드
-        for(int i=1; i<=n; i++){// i = 출발 노드
-            for(int j=1; j<=n; j++){// j = 도착 노드
+    for(int k=0; k<n; k++){// k = 거쳐가는 노드
+        for(int i=0; i<n; i++){// i = 출발 노드
+            for(int j=0; j<n; j++){// j = 도착 노드
                 if(d[i][k] + d[k][j] < d[i][j]){
                     d[i][j] = d[i][k] + d[k][j];
                 }
@@ -42,4 +42,3 @@ int main(){
         cout << "\n";
     }    
 }
-
