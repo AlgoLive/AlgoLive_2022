@@ -81,11 +81,10 @@
 | 8회차  | 7/22 | 그래프 III: 플로이드    | 송정현 | [#11403](https://www.acmicpc.net/problem/11403) [#11404](https://www.acmicpc.net/problem/11404) | [주최자 풀이](./8th%20study/Codes/) | |
 | 9회차  | 7/26 | DP I                     | 최동욱 | [#11053](https://www.acmicpc.net/problem/11053) [#1010](https://www.acmicpc.net/problem/1010)                                                                                               |  [주최자 풀이](./9th%20study/Codes/)                                            |                                    |
 | 10회차  | 7/29 | DP II                    | 안지완 |                                                                                                 |                                           |                                    |
-| 11회차  | 8/2 | Greedy              |  |                                                                                                 |                                           |                                    |
-| 12회차 | 8/5 | BruteForce                   | -      |                                                                                                 |                                           |                                    |
-| 부록 | -  | 트리 II: 세그먼트                 | -      |                                                                                                 |                                           |                                    |
-| 부록 | -  | 백트래킹                 | -      |                                                                                                 |                                           | ⭐️ 완주 ⭐️                       |
-| 부록   | -    | 위상정렬                 | -      |                                                                                                 |                                           |                                    |
+| 11회차  | 8/2 | Greedy              | 최동욱 |                                                                                                 |                                           |                                    |
+| 12회차 | 8/5 | BruteForce                   | 조명근      |                                                                                                 |                                           |                                    |
+| 13회차 | 8/9  | 백트래킹                 | 안지완      |                                                                                                 |                                           |                      |
+| 14회차   | 8/12    | 위상정렬                 | 송정현      |                                                                                                 |                                           |                 [종강]                   |
 
 ---
 
