@@ -79,7 +79,7 @@
 | 6회차 | <p style="color:red">휴강</p> | ||||
 | 7회차  | 7/19 | 그래프 II: 다익스트라   | 이의제 | [#18352](https://www.acmicpc.net/problem/18352) [#1753](https://www.acmicpc.net/problem/1753)  | [주최자 풀이](./7th%20study/Codes/) | |
 | 8회차  | 7/22 | 그래프 III: 플로이드    | 송정현 | [#11403](https://www.acmicpc.net/problem/11403) [#11404](https://www.acmicpc.net/problem/11404) | [주최자 풀이](./8th%20study/Codes/) | |
-| 9회차  | 7/26 | DP I                     | 최동욱 |                                                                                                 |                                           |                                    |
+| 9회차  | 7/26 | DP I                     | 최동욱 | [#11053](https://www.acmicpc.net/problem/11053) [#1010](https://www.acmicpc.net/problem/1010)                                                                                               |  [주최자 풀이](./9th%20study/Codes/)                                            |                                    |
 | 10회차  | 7/29 | DP II                    | 안지완 |                                                                                                 |                                           |                                    |
 | 11회차  | 8/2 | Greedy              |  |                                                                                                 |                                           |                                    |
 | 12회차 | 8/5 | BruteForce                   | -      |                                                                                                 |                                           |                                    |
