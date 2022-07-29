@@ -11,7 +11,6 @@ int max(int N, int M) {
 }
 
 int solution(int N) {
-
 	if (dp[N] == NULL) {
 		dp[N] = 1;
 		for (int i = N - 1; i >= 0; i--) {
