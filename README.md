@@ -83,7 +83,7 @@
 | 10회차  | 7/29 | DP II                    | 안지완 |                                                                                                 |                                           |                                    |
 | 11회차  | 8/2 | Greedy              | 최동욱 |                                                                                                 |                                           |                                    |
 | 12회차 | 8/5 | BruteForce                   | 조명근      |                                                                                                 |                                           |                                    |
-| 13회차 | 8/9  | 백트래킹                 | 안지완      |                                                                                                 |                                           |                      |
+| 13회차 | 8/9  | 백트래킹                 | 안지완      | [#1463](https://www.acmicpc.net/problem/1463) [#11052](https://www.acmicpc.net/problem/11052) [#2156] (https://www.acmicpc.net/problem/2156) [#1149](https://www.acmicpc.net/problem/1149) [#12865](https://www.acmicpc.net/problem/12865)                                                                                               |                                           |                      |
 | 14회차   | 8/12    | 위상정렬                 | 송정현      |                                                                                                 |                                           |                 [종강]                   |
 
 ---
