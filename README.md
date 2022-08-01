@@ -71,20 +71,28 @@
 
 | 주차   | 날짜 | 주차별 학습내용          | 주최자 | 메인 문제                                                                                       | 풀이                                      | 관련 링크                          |
 | ------ | ---- | ------------------------ | ------ | ----------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------------------------------- |
-| 1회차  | 6/28 | OT, 자료구조 I: 스택/큐  | 채승운 | [#9012](https://www.acmicpc.net/problem/9012) [#1158](https://www.acmicpc.net/problem/1158)     | [1st study](./1st%20study/)               |  |
+| 1회차  | 6/28 | 자료구조 I: 스택/큐  | 채승운 | [#9012](https://www.acmicpc.net/problem/9012) [#1158](https://www.acmicpc.net/problem/1158)     | [1st study](./1st%20study/)               |  |
 | 2회차  | 7/1  | 자료구조 II: 우선순위 큐 | 이의제 | [#11279](https://www.acmicpc.net/problem/11279) [#11286](https://www.acmicpc.net/problem/11286) | [주최자 풀이](./2nd%20study/Codes/) |
-| 3회차  | 7/5  | 트리 I : 기초~순회       | 조명근 | [#1991](https://www.acmicpc.net/problem/1991) [#9934](https://www.acmicpc.net/problem/9934)     | [주최자 풀이](./3rd%20study/Codes/)       |
-| 4회차  | 7/8  | 그래프 I: 기초~DFS/BFS   | 채승운 | [#1260](https://www.acmicpc.net/problem/1260) [#2606](https://www.acmicpc.net/problem/2606)  | [주최자 풀이](./4th%20study/Codes/)                                            |
+| 3회차  | 7/5  | 트리 I      | 조명근 | [#1991](https://www.acmicpc.net/problem/1991) [#9934](https://www.acmicpc.net/problem/9934)     | [주최자 풀이](./3rd%20study/Codes/)       |
+| 4회차  | 7/8  | 그래프 I: DFS/BFS   | 채승운 | [#1260](https://www.acmicpc.net/problem/1260) [#2606](https://www.acmicpc.net/problem/2606)  | [주최자 풀이](./4th%20study/Codes/)                                            |
 | 5회차 | <p style="color:red">휴강</p> | ||||
 | 6회차 | <p style="color:red">휴강</p> | ||||
 | 7회차  | 7/19 | 그래프 II: 다익스트라   | 이의제 | [#18352](https://www.acmicpc.net/problem/18352) [#1753](https://www.acmicpc.net/problem/1753)  | [주최자 풀이](./7th%20study/Codes/) | |
-| 8회차  | 7/22 | 그래프 III: 플로이드    | 송정현 | [#11403](https://www.acmicpc.net/problem/11403) [#11404](https://www.acmicpc.net/problem/11404) | [주최자 풀이](./8th%20study/Codes/) | |
+| 8회차  | 7/22 | 그래프 III: 플로이드/와셜    | 송정현 | [#11403](https://www.acmicpc.net/problem/11403) [#11404](https://www.acmicpc.net/problem/11404) | [주최자 풀이](./8th%20study/Codes/) | |
 | 9회차  | 7/26 | DP I                     | 최동욱 | [#11053](https://www.acmicpc.net/problem/11053) [#1010](https://www.acmicpc.net/problem/1010)                                                                                               |  [주최자 풀이](./9th%20study/Codes/)                                            |                                    |
+<<<<<<< HEAD
 | 10회차  | 7/29 | DP II                    | 안지완 |  [#1463](https://www.acmicpc.net/problem/1463) [#11052](https://www.acmicpc.net/problem/11052) [#2156](https://www.acmicpc.net/problem/2156) [#1149](https://www.acmicpc.net/problem/1149) [#12865](https://www.acmicpc.net/problem/12865)                                                                                                  | [주최자 풀이](https://github.com/AlgoLive/AlgoLive_Session/tree/main/10th%20study)                                          |                                    |
 | 11회차  | 8/2 | Greedy              | 최동욱 |                                                                                                 |                                           |                                    |
 | 12회차 | 8/5 | BruteForce                   | 조명근      |                                                                                                 |                                           |                                    |
 | 13회차 | 8/9  | 백트래킹                 | 안지완      |                                                                                             |                                           |                      |
 | 14회차   | 8/12    | 위상정렬                 | 송정현      |                                                                                                 |                                           |                 [종강]                   |
+=======
+| 10회차  | 7/29 | DP II                    | 안지완 | [#1463](https://www.acmicpc.net/problem/1463) [#11052](https://www.acmicpc.net/problem/11052) [#2156](https://www.acmicpc.net/problem/2156) [#1149](https://www.acmicpc.net/problem/1149)                                                                                               | [주최자 풀이](./10th%20study/codes/)                                          |                                    |
+| 11회차  | 8/2 | Greedy              | 최동욱 |                                                                                                 |                                           |                                    |
+| 12회차 | 8/5 | BruteForce                   | 조명근      |                                                                                                 |                                           |                                    |
+| 13회차 | 8/9  | 백트래킹                 | 안지완      |                                                                                                 |                                           |                      |
+| 14회차   | 8/12    | 위상 정렬                 | 송정현      |                                                                                                 |                                           |                 [종강!!]                   |
+>>>>>>> 785ce1abcbc1ab2b7eeb2acad48f91e8efe08a89
 
 ---
 
