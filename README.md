@@ -85,7 +85,6 @@
 | 12회차 | 8/5  | 백트래킹                 | 안지완      |  [#15649](https://www.acmicpc.net/problem/15649) [#6603](https://www.acmicpc.net/problem/6603) [#9663](https://www.acmicpc.net/problem/9663)                                                                                           |[주최자 풀이](./12nd%20study/Codes)                                           |                      |
 | 13회차 | 8/9 | BruteForce                   | 조명근      |                                                                                                 |                                           |                                    |
 | 14회차   | 8/12    | 위상정렬                 | 송정현      |                                                                                                 |                                           |                 [종강]                   |
->>>>>>> 785ce1abcbc1ab2b7eeb2acad48f91e8efe08a89
 
 ---
 
