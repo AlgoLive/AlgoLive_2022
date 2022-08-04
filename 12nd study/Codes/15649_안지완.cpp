@@ -1,5 +1,4 @@
 #include <iostream>
-#define MAX 9
 using namespace std;
 
 int N, M;
