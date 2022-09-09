@@ -4,7 +4,7 @@
 #숫자들은 전부 뺄 수 있음.
 #따라서 -가 처음 나온 위치를 찾아 그 뒤 수들을 다 빼면됨
 import sys
-
+ 
 exp = list(sys.stdin.readline())
 hyphenLocation = 0                  #-의 위치
 isHypgen = 0                        #-가 한번이라도 나왔는지 확인
