@@ -42,32 +42,145 @@
 
 ---
 
-## ❤️‍🔥 ⭐️ 🔫 ✨ 💘 🎉
+## ❤️‍🔥 ⭐️ 🔫 Contributers ✨ 💘 🎉
 
-<a href="https://solved.ac/winluck">
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=winluck"></a>
-
-<a href="https://solved.ac/synoti21">
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=synoti21"></a>
-
-<a href="https://solved.ac/dwchoi0610">
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dwchoi0610"></a>
-
-<a href="https://solved.ac/mgmg612">
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=mgmg612"></a>
-
-<a href="https://solved.ac/k424">
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=k424"></a>
-
-<a href="https://solved.ac/rokaf72781110">
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=rokaf72781110"></a>
-
-<a href="https://solved.ac/euije">
-<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=euije"></a>
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/AlgoLive/AlgoLive_Session/commits?author=chaso1495">
+          <img src="https://avatars.githubusercontent.com/u/53044069?s=64&v=4" width="100px" alt=""/>
+          <br />
+          <sub>
+            <b>chaso1495</b>
+          </sub>
+        </a>
+        <br />
+      </td>
+      <td>
+        <a href="https://solved.ac/winluck">
+          <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=winluck">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/AlgoLive/AlgoLive_Session/commits?author=synoti21">
+          <img src="https://avatars.githubusercontent.com/u/58936172?s=64&v=4" width="100px" alt=""/>
+          <br />
+          <sub>
+            <b>synoti21</b>
+          </sub>
+        </a>
+        <br />
+      </td>
+      <td>
+        <a href="https://solved.ac/synoti21">
+          <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=synoti21">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/AlgoLive/AlgoLive_Session/commits?author=dongwxxkchoi">
+          <img src="https://avatars.githubusercontent.com/u/68775148?v=4" width="100px" alt=""/>
+          <br />
+          <sub>
+            <b>dongwxxkchoi</b>
+          </sub>
+        </a>
+        <br />
+      </td>
+      <td>
+        <a href="https://solved.ac/dwchoi0610">
+          <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dwchoi0610">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/AlgoLive/AlgoLive_Session/commits?author=realisshomyang">
+          <img src="https://avatars.githubusercontent.com/u/81310047?v=4" width="100px" alt=""/>
+          <br />
+          <sub>
+            <b>realisshomyang</b>
+          </sub>
+        </a>
+        <br />
+      </td>
+      <td>
+        <a href="https://solved.ac/mgmg612">
+          <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=mgmg612">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/AlgoLive/AlgoLive_Session/commits?author=katie424">
+          <img src="https://avatars.githubusercontent.com/u/80771814?v=4" width="100px" alt=""/>
+          <br />
+          <sub>
+            <b>katie424</b>
+          </sub>
+        </a>
+        <br />
+      </td>
+      <td>
+        <a href="https://solved.ac/k424">
+          <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=k424">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/AlgoLive/AlgoLive_Session/commits?author=dn7638">
+          <img src="https://avatars.githubusercontent.com/u/48896148?v=4" width="100px" alt=""/>
+          <br />
+          <sub>
+            <b>dn7638</b>
+          </sub>
+        </a>
+        <br />
+      </td>
+      <td>
+        <a href="https://solved.ac/dn7638">
+          <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dn7638">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/AlgoLive/AlgoLive_Session/commits?author=euije">
+          <img src="https://avatars.githubusercontent.com/u/12531340?v=4" width="100px" alt=""/>
+          <br />
+          <sub>
+            <b>euije</b>
+          </sub>
+        </a>
+        <br />
+      </td>
+      <td>
+        <a href="https://solved.ac/euije">
+          <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=euije">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## ❤️‍🔥 진행사항 ❤️‍🔥
+
+- 2022 - Fall
+
+|주차|날짜|문제 번호|참가자|확인|
+|-|-|-|:-:|:-:|
+|1|9/8|[#1541](https://boj.kr/1541)<br/> [#5014](https://boj.kr/5014)<br/> [#11501](https://boj.kr/11501)<br/> [#11727](https://boj.kr/11727)<br/> [#14938](https://boj.kr/14938)<br/> [#16953](https://boj.kr/16953)<br/>|winluck<br/>synoti21<br/>dwchoi0610<br/>mgmg612<br/>k424 <br/>dn7638<br/>euije|<ul><li>[ ]</li><li>[ ]</li><li>[ ]</li><li>[ ]</li><li>[ ]</li><li>[ ]</li><li>[ ]</li></ul>|
+|2|9/15|휴강|-|-|
+
+<details>
+<summary> 2022 - Summer </summary>
 
 | 주차   | 날짜 | 주차별 학습내용          | 주최자 | 메인 문제                                                                                       | 풀이                                      | 관련 링크                          |
 | ------ | ---- | ------------------------ | ------ | ----------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------------------------------- |
@@ -85,6 +198,8 @@
 | 12회차 | 8/5  | 백트래킹                 | 안지완      |  [#15649](https://www.acmicpc.net/problem/15649) [#6603](https://www.acmicpc.net/problem/6603) [#9663](https://www.acmicpc.net/problem/9663)                                                                                           |[주최자 풀이](./12nd%20study/Codes)                                           |                      |
 | 13회차 | 8/9 | BruteForce                   | 조명근      |                                                                                                 |                                           |                                    |
 | 14회차   | 8/12    | 위상정렬                 | 송정현      |                                                                                                 |                                           |                 [종강]                   |
+
+</details>
 
 ---
 
