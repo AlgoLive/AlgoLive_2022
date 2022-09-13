@@ -59,7 +59,7 @@
       </td>
       <td>
         <a href="https://solved.ac/winluck">
-          <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=winluck">
+          <img width="175px" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=winluck">
         </a>
       </td>
     </tr>
@@ -76,7 +76,7 @@
       </td>
       <td>
         <a href="https://solved.ac/synoti21">
-          <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=synoti21">
+          <img width="175px" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=synoti21">
         </a>
       </td>
     </tr>
@@ -93,7 +93,7 @@
       </td>
       <td>
         <a href="https://solved.ac/dwchoi0610">
-          <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dwchoi0610">
+          <img width="175px" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dwchoi0610">
         </a>
       </td>
     </tr>
@@ -110,7 +110,7 @@
       </td>
       <td>
         <a href="https://solved.ac/mgmg612">
-          <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=mgmg612">
+          <img width="175px" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=mgmg612">
         </a>
       </td>
     </tr>
@@ -127,7 +127,7 @@
       </td>
       <td>
         <a href="https://solved.ac/k424">
-          <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=k424">
+          <img width="175px" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=k424">
         </a>
       </td>
     </tr>
@@ -144,7 +144,7 @@
       </td>
       <td>
         <a href="https://solved.ac/dn7638">
-          <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dn7638">
+          <img width="175px" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=dn7638">
         </a>
       </td>
     </tr>
@@ -161,7 +161,7 @@
       </td>
       <td>
         <a href="https://solved.ac/euije">
-          <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=euije">
+          <img width="175px" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=euije">
         </a>
       </td>
     </tr>
@@ -174,10 +174,10 @@
 
 - 2022 - Fall
 
-|주차|날짜|문제 번호|참가자|확인|
-|-|-|-|:-:|:-:|
-|1|9/8|[#1541](https://boj.kr/1541)<br/> [#5014](https://boj.kr/5014)<br/> [#11501](https://boj.kr/11501)<br/> [#11727](https://boj.kr/11727)<br/> [#14938](https://boj.kr/14938)<br/> [#16953](https://boj.kr/16953)<br/>|winluck<br/>synoti21<br/>dwchoi0610<br/>mgmg612<br/>k424 <br/>dn7638<br/>euije|<ul><li>[ ]</li><li>[ ]</li><li>[ ]</li><li>[ ]</li><li>[ ]</li><li>[ ]</li><li>[ ]</li></ul>|
-|2|9/15|휴강|-|-|
+|주차|날짜|문제 번호|참가자|
+|-|-|-|:-:|
+|1|9/8|[#1541](https://boj.kr/1541)<br/> [#5014](https://boj.kr/5014)<br/> [#11501](https://boj.kr/11501)<br/> [#11727](https://boj.kr/11727)<br/> [#14938](https://boj.kr/14938)<br/> [#16953](https://boj.kr/16953)<br/>|winluck<br/>synoti21<br/>dwchoi0610<br/>mgmg612<br/>k424 <br/>dn7638<br/>euije|
+|2|9/15|휴강|-|
 
 <details>
 <summary> 2022 - Summer </summary>
