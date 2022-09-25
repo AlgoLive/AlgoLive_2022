@@ -174,10 +174,11 @@
 
 - 2022 - Fall
 
-|주차|날짜|문제 번호|참가자|
+|주차|날짜|문제 번호|불참|
 |-|-|-|:-:|
-|1|9/8|[#1541](https://boj.kr/1541)<br/> [#5014](https://boj.kr/5014)<br/> [#11501](https://boj.kr/11501)<br/> [#11727](https://boj.kr/11727)<br/> [#14938](https://boj.kr/14938)<br/> [#16953](https://boj.kr/16953)<br/>|winluck<br/>synoti21<br/>dwchoi0610<br/>mgmg612<br/>k424 <br/>dn7638<br/>euije|
+|1|9/8|[#1541 : 잃어버린 괄호](https://boj.kr/1541)<br/>[#5014 : 스타트링크](https://boj.kr/5014)<br/>[#11501 : 주식](https://boj.kr/11501)<br/>[#11727 : 2×n 타일링 2](https://boj.kr/11727)<br/>([#14938](https://boj.kr/14938)   [#16953](https://boj.kr/16953))|-|
 |2|9/15|휴강|-|
+|3|9/23|[#1915 : 가장 큰 정사각형](https://boj.kr/1915)<br/>[#1309 : 동물원](https://boj.kr/1309)<br/>[#14940 : 쉬운 최단 거리](https://boj.kr/14940)<br/>[#4485 : 녹색 옷 입은 애가 젤다지?](https://boj.kr/4485)|-|
 
 <details>
 <summary> 2022 - Summer </summary>
