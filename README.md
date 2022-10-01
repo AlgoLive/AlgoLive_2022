@@ -174,11 +174,12 @@
 
 - 2022 - Fall
 
-|주차|날짜|문제 번호|불참|
+|주차|날짜|문제 번호|참고자료|
 |-|-|-|:-:|
 |1|9/8|[#1541 : 잃어버린 괄호](https://boj.kr/1541)<br/>[#5014 : 스타트링크](https://boj.kr/5014)<br/>[#11501 : 주식](https://boj.kr/11501)<br/>[#11727 : 2×n 타일링 2](https://boj.kr/11727)<br/>([#14938](https://boj.kr/14938)   [#16953](https://boj.kr/16953))|-|
 |2|9/15|휴강|-|
 |3|9/23|[#1915 : 가장 큰 정사각형](https://boj.kr/1915)<br/>[#1309 : 동물원](https://boj.kr/1309)<br/>[#14940 : 쉬운 최단 거리](https://boj.kr/14940)<br/>[#4485 : 녹색 옷 입은 애가 젤다지?](https://boj.kr/4485)|-|
+|4|9/29|[#2178 : 미로탐색](https://boj.kr/2178)<br/>[#13549 : 숨바꼭질 3](https://boj.kr/13549)<br/>[#2110 : 공유기 설치](https://boj.kr/2110)|- #2110 <br/>[우형 풀이](https://placid-quince-7f0.notion.site/12-2110-84a4b0514e2749378c389eaf59e97663)<br/>[이분 탐색 - 단조 증가/감소](https://medium.com/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%80-%EB%AF%B8%EC%B9%9C%EC%A7%93%EC%9D%B4%EB%8B%A4/13-%EC%9D%B4%EB%B6%84-%ED%83%90%EC%83%89-binary-search-c40d807abe0b)<br/>[알고리즘 고수 - 박진환](https://blog.naver.com/jinhan814)|
 
 <details>
 <summary> 2022 - Summer </summary>
